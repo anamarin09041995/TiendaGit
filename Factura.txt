@@ -1,0 +1,13 @@
+class Factura{
+	
+	long codigo;
+<<<<<<< HEAD
+	String cliente;
+=======
+	int iva;
+>>>>>>> test2
+	Date fecha;
+	int valor;
+	String concepto;
+
+}
